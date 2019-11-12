@@ -9,9 +9,10 @@ with IMOD."
 
 ### Prerequisite:
 
-IMOD needs to be installed on your machine (see: https://bio3d.colorado.edu/imod/download.html)
+IMOD needs to be installed on your machine (see: https://bio3d.colorado.edu/imod/download.html).
 
 ### Usage: 
-
+```
 $ chmod +x imod2tomoj.sh
 $ ./imod2tomoj.sh -b files_basename
+```
