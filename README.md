@@ -9,4 +9,5 @@ with IMOD."
 Usage: 
 
 $ chmod +x imod2tomoj.sh
+
 $ ./imod2tomoj.sh -b files_basename
